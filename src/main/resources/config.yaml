@@ -1,0 +1,3 @@
+#Default configuration
+discord:
+  guild_webhook: "<webhook here>"

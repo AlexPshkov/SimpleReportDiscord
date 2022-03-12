@@ -1,0 +1,10 @@
+name: ReportPlugin
+version: '${project.version}'
+main: ru.alexpshkov.reportplugin.ReportPlugin
+authors: [ AlexPshkov ]
+description: Simple report plugin for minecraft
+commands:
+  report:
+    description: Command for report
+  reportplugin:
+    description: Main command of plugin
